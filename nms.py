@@ -64,6 +64,7 @@ if __name__ == '__main__':
     #cv2.namedWindow("Image")
     #cv2.imshow("Image",im_file)
     #cv2.waitKey(0)
+	#123456789
     boxes = []
     for line in txt_open:
 	line = line.replace('\n','')
